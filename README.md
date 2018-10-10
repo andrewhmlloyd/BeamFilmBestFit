@@ -5,6 +5,8 @@ Specifically, it will compare the CoC curves, CO frequencies and Event Distribut
 
 Simulated data are ranked on the fit of the CoC curves, CO frequencies and Event Distributions to those of the experimental data. The best fit simulation is that with the lowest rank sum.
 
+The combined and individual rankings are reported in the output file BestFitAnalysis.txt
+
 The script requires the user to provide as arguments
  1. The directory containing the simulated and experimental analysis files 
  2. The file name of the experimental analysis file
