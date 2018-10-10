@@ -1,5 +1,5 @@
 # BeamFilmBestFit
-The perl script BF_FindBestParameters.pl is used to compare recombination data simulated using MADpatterns (https://mwhite4.github.io/MADpatterns/) to experimental recombination datasets.
+The perl script BF_FindBestFit.pl is used to compare recombination data simulated using MADpatterns (https://mwhite4.github.io/MADpatterns/) to experimental recombination datasets.
 
 Specifically, it will compare the CoC curves, CO frequencies and Event Distributions from the output files of "analyze_events_on_linear_objects" run on recombination data simulated using "crossover_simulation" with the CoC curve, CO frequencies and Event Distribution of the experimental data.
 
